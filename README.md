@@ -6,7 +6,9 @@ This repository is a standalone portfolio/demo project. The names, project studi
 
 ## Live demo
 
-The project is prepared for deployment with GitHub Pages through GitHub Actions.
+GitHub Pages target: `https://carinotj19.github.io/nova-form-studio/`
+
+Deployment is handled by the included GitHub Pages workflow.
 
 ## Run locally
 
