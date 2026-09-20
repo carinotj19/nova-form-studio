@@ -1,0 +1,19 @@
+{
+  "name": "nova-form-studio",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "node scripts/self-check.mjs"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "dependencies": {
+    "three": "^0.185.1"
+  },
+  "description": "Independent interactive front-end design concept and portfolio demo"
+}
